@@ -41,7 +41,7 @@
 	<main>
 		<!-- Hero Text Section -->
 		<section class="mb-32 md:mb-52">
-			<h1 class="text-2xl md:text-4xl lg:text-[2.65rem] leading-[1.15] tracking-tight font-normal max-w-full md:max-w-[78%] lg:max-w-[72%] text-black">
+			<h1 class="text-2xl md:text-4xl lg:text-[2.65rem] leading-[1.15] tracking-tight font-normal max-w-full md:max-w-[78%] lg:max-w-[72%] text-white">
 				Roark transforms passive podcast listening into interactive learning through voice-activated AI that answers questions mid-episode. Built for those who refuse to compromise on their curiosity.
 			</h1>
 		</section>
